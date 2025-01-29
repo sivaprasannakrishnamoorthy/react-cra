@@ -1,0 +1,14 @@
+.app-container {
+  background: yellow;
+}
+
+.app-container .app-title {
+    color: red;
+}
+
+.header-menu {
+  display: flex;
+  justify-content: flex-start;
+  gap: 10px;
+  margin-left: 10px;
+}
